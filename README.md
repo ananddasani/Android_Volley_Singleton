@@ -104,6 +104,5 @@ RequestQueue requestQueue;
 
 # App Highlight
 
-<img src="app_images/Volley API Basic Code.png" /><br>
-
-<img src="app_images/Volley API Basic App.png" width="300" />
+![Volley API Basic App](https://user-images.githubusercontent.com/74413402/192093546-db539b9e-84e0-47ca-93f9-02b8e5b21b70.png)
+![Volley API Basic Code](https://user-images.githubusercontent.com/74413402/192093548-6c970cbb-87c9-4192-a13b-dff47d0298b3.png)
